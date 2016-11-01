@@ -1,0 +1,2 @@
+Een branch is een parallelle werkomgeving die geen effect heeft op de hoofdbranch.
+Zodra een branch goed gekeurd is kan deze ingevoegd worden in de hoofdbranch.
