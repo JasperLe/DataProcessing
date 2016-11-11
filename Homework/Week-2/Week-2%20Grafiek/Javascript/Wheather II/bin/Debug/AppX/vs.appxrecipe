@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-D3US4QE</Machine>
+    <WindowsUser>JasperL</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fbd9e779-0e2c-45b6-99cd-3e3c62c53fec</PackageIdentityName>
+    <PackageIdentityPublisher>CN=JasperL</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>BD913C362D6DFE80A385F748AEB7995E2D27065C98D8A2C1E24E6B02D221177A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fbd9e779-0e2c-45b6-99cd-3e3c62c53fec_1.0.0.0_neutral__tmj2app9b7x8j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fbd9e779-0e2c-45b6-99cd-3e3c62c53fec_tmj2app9b7x8j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fbd9e779-0e2c-45b6-99cd-3e3c62c53fec</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=JasperL</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-10T09:11:41.313</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2016-11-11T19:35:35.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-11-11T19:36:53.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-11-11T19:35:30.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\textfile.txt">
+      <PackagePath>textfile.txt</PackagePath>
+      <Modified>2016-11-11T19:35:34.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JasperL\Documents\Visual Studio 2015\Projects\Wheather II\Wheather II\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-11-10T09:11:40.709</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
