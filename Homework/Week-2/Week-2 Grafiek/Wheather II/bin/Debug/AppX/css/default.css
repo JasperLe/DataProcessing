@@ -1,0 +1,5 @@
+﻿body {
+    touch-action: manipulation;
+    overflow-y: hidden;
+}
+

@@ -1,0 +1,16 @@
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bin\Debug\ReverseMap\resources.pri
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bin\Debug\AppxManifest.xml
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bin\Debug\Wheather II.build.appxrecipe
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\ResourceHandlingTask.state
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\priconfig.xml
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\priconfig.xml.intermediate
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\layout.resfiles
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\layout.resfiles.intermediate
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\resources.resfiles
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\resources.resfiles.intermediate
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\pri.resfiles
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\pri.resfiles.intermediate
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\qualifiers.txt
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\qualifiers.txt.intermediate
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\jasperl\documents\visual studio 2015\Projects\Wheather II\Wheather II\bld\Debug\ProjectArchitectures.txt
