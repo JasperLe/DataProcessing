@@ -1,1 +1,14 @@
-Vraag 1:
+Question 1:
+	== voert een type conversie uit. === voert geen type conversie uit. Dus: false == 0 is true, false === 0 is false.
+
+Question 2:
+	Closure is een functie die verwijst naar een onafhankelijke variabele. De functie onthoudt dus de omgeving waarbinnen het gecreëerd is.
+
+Question 3:
+	Een higher-order function is een functie die binnen een functie wordt aangeroepen. Met andere woorden, het is een functie waarvan de input een functie is.
+
+Question 4:
+	Een query selector is een functie waarmee je  in documenten specifieke elementen kan selecteren. 
+Bijvoorbeeld:
+	<h3>A h3 element</h3> 
+	document.querySelector("h3")
