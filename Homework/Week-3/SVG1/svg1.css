@@ -1,0 +1,22 @@
+/* auteur: Jasper Lelijveld
+* studentnummer: 11401753
+* vak: Data Processing
+*/
+
+body {
+  touch-action: manipulation;
+}
+
+/* country colors */
+/* Frankrijk */
+path.fr {
+    fill: #3498DB;
+}
+/* Groot-Brittanië */
+g.gb {
+    fill: #1ABC9C;
+}
+/* Duitsland */
+path.de {
+    fill: #8E44AD;
+}
