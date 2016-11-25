@@ -1,0 +1,14 @@
+/* auteur: Jasper Lelijveld
+* studentnummer: 11401753
+* vak: Data Processing
+* CSS voor week-4
+*/
+
+.rect {
+  fill: lightblue;
+  stroke: black;
+}
+
+.rect:hover {
+  fill: darkblue;
+}
