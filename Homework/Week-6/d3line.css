@@ -1,0 +1,27 @@
+/* auteur: Jasper Lelijveld
+* studentnummer: 11401753
+* vak: Data Processing
+* Week 5 - d3Line
+* Met dank aan: https://bl.ocks.org/mbostock/3902569, voor de mouse function
+*/
+path {
+	fill: none;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+.focus circle {
+    fill: green;
+    stroke: green;
+}
