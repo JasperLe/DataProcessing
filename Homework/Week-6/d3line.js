@@ -104,14 +104,14 @@ d3.json("d3lineLeeuwarden.json", function(data){
 // bisect data
     var bisectDate = d3.bisector(function(d) { return d.Datum; }).left;
 // append focus
-    var focus = svg.append("g")
+    var point = svg.append("g")
         .attr("class", "focus")
         .style("display", "none");
 // append cirkel aan focus
-    focus.append("circle")
+    point.append("circle")
         .attr("r", 4.5);
 // append text aan focus
-    focus.append("text")
+    point.append("text")
         .attr("x", 10)
         .attr("y", 5)
         .attr("fill", "black");
@@ -121,8 +121,8 @@ d3.json("d3lineLeeuwarden.json", function(data){
         .attr("class", "overlay")
         .attr("width", width)
         .attr("height", height)
-        .on("mouseover", function() { focus.style("display", null); })
-        .on("mouseout", function() { focus.style("display", "none"); })
+        .on("mouseover", function() { point.style("display", null); })
+        .on("mouseout", function() { point.style("display", "none"); })
         .on("mousemove", mousemove);
 // de mousemove functie welke de juiste y waardes bij de x waarde zoekt
 // laat zowel de gemiddelde temperatuur, als de minimum en maximum temperatuur zien
@@ -132,8 +132,9 @@ d3.json("d3lineLeeuwarden.json", function(data){
         d0 = data[i - 1],
         d1 = data[i],
         d = x0 - d0.Datum > d1.Datum - x0 ? d1 : d0;
-    focus.attr("transform", "translate(" + x(d.Datum) + "," + y(d.GemiddeldeTemperatuur) + ")");
-    focus.select("text").text("Gemiddeld: " + d.GemiddeldeTemperatuur + ", Maximum: " + d.MaximumTemperatuur + ", Minimum: " + d.MinimumTemperatuur);
+    point.attr("transform", "translate(" + x(d.Datum) + "," + y(d.GemiddeldeTemperatuur) + ")");
+// maak text de verschillende y data punten
+    point.select("text").text("Gemiddeld: " + d.GemiddeldeTemperatuur + ", Maximum: " + d.MaximumTemperatuur + ", Minimum: " + d.MinimumTemperatuur);
     }
 // log de data
     console.log(data);
